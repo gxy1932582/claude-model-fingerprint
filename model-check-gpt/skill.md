@@ -1,5 +1,5 @@
 ---
-name: model-check-gpt55
+name: model-check-gpt
 description: "通过自省式分析检测当前 API 是否为真实 OpenAI GPT-5.5 模型，或是否存在多层封装和提示词冲突"
 source: personal
 risk: safe
