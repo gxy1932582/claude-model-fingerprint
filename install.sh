@@ -18,6 +18,7 @@ SKILLS=(
   "API脚本化"
   "小宇宙播客下载"
   "模型指纹检测"
+  "model-check-gpt"
 )
 
 echo "Claude Code Skills 安装脚本"
